@@ -82,7 +82,8 @@ main {
 }
 
 // Components - UI
-
+@import "./ui.scss";
+@import "./stack.scss";
 // Components - UI
 
 // Components - Cards
@@ -101,7 +102,4 @@ main {
 @import "./components/pages/home/index";
 // Components - Pages
 
-@import "./ui.scss";
-@import "./stack.scss";
 
-// </СТИЛИ>==================================================================
