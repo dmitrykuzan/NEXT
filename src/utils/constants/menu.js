@@ -1,9 +1,7 @@
 export const MENU = {
-  about: "/#item",
+  one: "/#anchor",
 
-  team: "/#item",
+  two: "/#anchor",
 
-  offer: "/#item",
-
-  result: "/#item",
+  three: "/#anchor",
 };
