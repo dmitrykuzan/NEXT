@@ -7,7 +7,7 @@ const Page = () => {
   return (
     <>
       <Head>
-        <title>Weather</title>
+        <title>WeatherApp</title>
         <meta name="description" content="description" />
       </Head>
       <Home />
